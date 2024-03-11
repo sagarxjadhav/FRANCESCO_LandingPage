@@ -1,6 +1,7 @@
 #Link: https://sagarxjadhav.github.io/FRANCESCO_LandingPage/
 
-tried clone : https://in.pinterest.com/pin/134474738866732632/
+![Screenshot (88)](https://github.com/sagarxjadhav/FRANCESCO_LandingPage/assets/93977940/b9178f18-0541-4a68-9fc1-b97f3c45a859)
+
 
 
 I used here: GSAP, HTML, CSS
